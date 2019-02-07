@@ -1,0 +1,5 @@
+Jestes w kuchni, a tam mozesz sie
+posilic jakims owocem, smacznego!
+Jednak do kuchni mozna wejsc tylko
+jak jest sie w potrzebie. 
+Czyli:   php < 8

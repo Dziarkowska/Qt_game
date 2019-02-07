@@ -1,0 +1,5 @@
+Masz szanse spotkac sie ze swoim przyjacielem.
+Wybor nalezy do Ciebie.
+1.Wybierasz spotkanie
+2.Odchodzisz
+3.Walczysz

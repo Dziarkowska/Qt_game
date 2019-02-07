@@ -1,0 +1,42 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>patient2.png</file>
+        <file>doctor.png</file>
+        <file>guard.png</file>
+        <file>szpital.png</file>
+        <file>ananas.png</file>
+        <file>baddoctor.png</file>
+        <file>bonus.png</file>
+        <file>cat.png</file>
+        <file>creep.png</file>
+        <file>grapes.png</file>
+        <file>greenmessage.png</file>
+        <file>peach.png</file>
+        <file>pudel.png</file>
+        <file>stop.png</file>
+    </qresource>
+    <qresource prefix="/sounds"/>
+    <qresource prefix="/txt">
+        <file>wstep.txt</file>
+        <file>guard.txt</file>
+        <file>doctor.txt</file>
+        <file>doctor_fight.txt</file>
+        <file>guard_fight.txt</file>
+        <file>cardiologist.txt</file>
+        <file>cardiologist_respiration.txt</file>
+        <file>cardiologist_suplement.txt</file>
+        <file>cat.txt</file>
+        <file>cat_help.txt</file>
+        <file>doctor_heal.txt</file>
+        <file>doctor_poison.txt</file>
+        <file>dog.txt</file>
+        <file>dog_help.txt</file>
+        <file>guard_help.txt</file>
+        <file>guard_paralyse.txt</file>
+        <file>psychiatrist.txt</file>
+        <file>psychiatrist_drug.txt</file>
+        <file>win.txt</file>
+        <file>kitchen.txt</file>
+        <file>greenmessage.txt</file>
+    </qresource>
+</RCC>

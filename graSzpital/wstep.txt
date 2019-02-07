@@ -1,0 +1,20 @@
+Wstep:
+Jestes pacjentem w szpitalu
+psychiatrycznym. Trafiles tu
+przez pomylke, chodziaz Twoi 
+rodzice sa swiecie przekonani,
+ze masz nie po kolei w glowie.
+Ze szpitala nie mozna sie wypisac.
+Twoim zadaniem jest wydostac sie
+ze szpitala. Aby tego dokonac
+musisz zbierac punkty zdrowia:
+mentalhealth (mhp) i physicalhealth(php).
+Te pierwsze nigdy nie moga spasc do zera,
+natomiast tych drugich musisz nazbierac
+maksymalna ilosc. Oprocz tego musisz
+wykazac sie sprytem oraz musisz rosnac
+w sile, zeby straznicy nie mogli Cie
+latwo pokonac. Kazdy Twoj wybor
+wplywa na ilosc tych punktow,
+wiec staraj sie decydowac madrze.
+Do roboty ;)

@@ -1,0 +1,4 @@
+php: 11
+mhp: 11
+strength: 10
+wisdom: 10

@@ -1,0 +1,2 @@
+cout << name << endl << "physicalhealth " << php << endl << "mentalhealth " << mhp << endl;
+	cout << "strength " << strength << endl << "wisdom " << wisdom << endl;
